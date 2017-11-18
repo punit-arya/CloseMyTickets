@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloseMyTickets.iml" filepath="$PROJECT_DIR$/.idea/modules/CloseMyTickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloseMyTickets_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CloseMyTickets_main.iml" group="CloseMyTickets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloseMyTickets_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CloseMyTickets_test.iml" group="CloseMyTickets" />
+    </modules>
+  </component>
+</project>
